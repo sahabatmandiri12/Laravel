@@ -1,4 +1,4 @@
-# GACS-Ubuntu-22.04
+# Install_Genieacs-Ubuntu-22.04
 This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 
 # Usage
@@ -6,20 +6,33 @@ This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 sudo su
 ```
 ```
-git clone https://github.com/safrinnetwork/GACS-Ubuntu-22.04
+git clone https://github.com/safrinnetwork/genieacs-ubuntu22
 ```
 ```
-cd GACS-Ubuntu-22.04
+cd Igenieacs-ubuntu22
 ```
 ```
-chmod +x GACS-Jammy.sh
+chmod +x Install_Genieacs.sh
 ```
 ```
 sudo apt-get install dos2unix
 ```
 ```
-dos2unix GACS-Jammy.sh
+dos2unix Install_Genieacs.sh
 ```
 ```
-bash GACS-Jammy.sh
+bash Install_Genieacs.sh
 ```
+Baca terlebih dahulu !!!
+
+#=== Script update GenieACS ====#
+
+Config sebelumnya akan terhapus dan tergantikan oleh config baru
+
+Yang akan diupdate, yaitu:
+
+• Admin >> Preset
+• Admin >> Provosions
+• Admin >> Virtual Parameter
+• Admin >> Config
+
