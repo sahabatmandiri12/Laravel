@@ -74,7 +74,8 @@ print_banner
 total_steps=25
 current_step=0
 
-echo -e "\n${MAGENTA}${BOLD}Starting GenieACS Installation Process${NC}\n"
+echo -e "${GREEN}Sekarang install Genieacs_uUbuntu 22.04 (Jammy). Apakah anda ingin melanjutkan? (y/n)${NC}"
+read confirmation
 
 run_command "apt-get update -y" "Updating system ($(( ++current_step ))/$total_steps)"
 
@@ -175,5 +176,6 @@ echo -e "${RED}=================================================================
 echo -e "${RED}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
 echo -e "${RED}=================== Informasi: Whatsapp 082210264289 =======================${NC}"
 echo -e "${RED}============================================================================${NC}"
+
 
 
