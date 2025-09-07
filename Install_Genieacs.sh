@@ -170,5 +170,10 @@ for service in mongod genieacs-cwmp genieacs-nbi genieacs-fs genieacs-ui; do
     fi
 done
 
-echo -e "\n${GREEN}${BOLD}Script execution completed successfully!${NC}"
+#Sukses
+echo -e "${RED}============================================================================${NC}"
+echo -e "${RED}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
+echo -e "${RED}=================== Informasi: Whatsapp 082210264289 =======================${NC}"
+echo -e "${RED}============================================================================${NC}"
+
 
