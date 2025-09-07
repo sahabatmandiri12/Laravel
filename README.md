@@ -23,6 +23,3 @@ dos2unix GACS-Jammy.sh
 ```
 bash GACS-Jammy.sh
 ```
-
-# Full Tutorial
-- https://youtu.be/p_UNuq0rfg0
