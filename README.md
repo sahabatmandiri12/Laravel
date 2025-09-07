@@ -9,7 +9,7 @@ sudo su
 git clone https://github.com/sahabatmandiri12/genieacs-ubuntu22
 ```
 ```
-cd Igenieacs-ubuntu22
+cd genieacs-ubuntu22
 ```
 ```
 chmod +x Install_Genieacs.sh
