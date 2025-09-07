@@ -6,7 +6,7 @@ This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 sudo su
 ```
 ```
-git clone https://github.com/safrinnetwork/genieacs-ubuntu22
+git clone https://github.com/sahabatmandiri12/genieacs-ubuntu22
 ```
 ```
 cd Igenieacs-ubuntu22
