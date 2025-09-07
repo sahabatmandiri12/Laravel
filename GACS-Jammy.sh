@@ -51,7 +51,7 @@ print_banner() {
 	echo "                                               |_|        "
 	echo ""
 	echo "                  --- Ubuntu 22.04 ---"
-	echo "                  --- By Mostech ---"
+	echo "                  --- By DasNet ---"
 	echo -e "${NC}"
 }
 
@@ -171,3 +171,4 @@ for service in mongod genieacs-cwmp genieacs-nbi genieacs-fs genieacs-ui; do
 done
 
 echo -e "\n${GREEN}${BOLD}Script execution completed successfully!${NC}"
+
